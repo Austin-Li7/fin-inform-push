@@ -1,0 +1,2 @@
+"""Financial briefing demo package."""
+
